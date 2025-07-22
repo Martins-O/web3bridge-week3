@@ -1,0 +1,11 @@
+# Addresses
+### HardHat
+* Sepolia: 0x14EFf5AC479af3050419e8c7980ffBB694016a9f
+* Core DAO: 
+
+### Foundry
+* Sepolia
+  * 0x2190C7E378778bd2ceD401Ab572E1045DC812F28
+* Core DAO:
+  * 0x221B7Cca1C385C6c81e17b086C753328AF41AAAa
+  
